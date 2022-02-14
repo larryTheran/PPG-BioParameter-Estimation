@@ -24,3 +24,13 @@ The above signal shows a baseline shift and therefore does not represent the tru
 
 
 ![peack_4wave](https://user-images.githubusercontent.com/55849820/153887578-18e65ba8-628d-413a-b04c-491397a6e129.png)
+
+
+# Oxigen Saturation
+If we use we use only functional Hemoglobin and two wavelengths as in the case of the pulse oximeter, then the absorption will be:
+
+![SharedScreenshot](https://user-images.githubusercontent.com/55849820/153888381-87a74f87-eb68-43d7-9dba-ab34fdb0bf6e.jpg)
+
+The ratio of the absorbance at two wavelengths:
+![SharedScreenshot2](https://user-images.githubusercontent.com/55849820/153888551-f003dc04-d504-4ab5-aef4-2bbdff0e7ed8.jpg)
+
