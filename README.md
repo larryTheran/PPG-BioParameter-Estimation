@@ -45,6 +45,9 @@ Assuming that the optical path length of the two-wavelength is equal to 'd' can 
 
 ![SharedScreenshot3](https://user-images.githubusercontent.com/55849820/153888820-d7bfb31d-2a28-409e-9672-a1ae545dee7d.jpg)
 
+# Hemoglobin measurements
+In the case of the hemoglobin concentration prediction, in the last section, we got that the absorption for a different substance was given by: 
+
 
 
 
