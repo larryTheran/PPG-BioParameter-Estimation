@@ -5,6 +5,11 @@ The normal range for hemoglobin is:
 For man: 13.5 to 17.5 grams per deciliter (g/dL)——————8.7 to 11.2 Molly/L (SI units)
 For women: 12.0 to 15.5 grams per deciliter
 
-Beer Lambert Law
 
-![formula](https://render.githubusercontent.com/render/math?math=\color{white}\large\I=I_{0}e^{-\epsilon(\lambda)cd)
+#PPG Real DATA
+
+
+
+
+Detrending Data
+The above signal shows a baseline shift and therefore does not represent the true amplitude. In order to remove the trend, fit a low order polynomial to the signal and use the polynomial to detrend it.
