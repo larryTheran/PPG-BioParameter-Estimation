@@ -32,5 +32,16 @@ If we use we use only functional Hemoglobin and two wavelengths as in the case o
 ![SharedScreenshot](https://user-images.githubusercontent.com/55849820/153888381-87a74f87-eb68-43d7-9dba-ab34fdb0bf6e.jpg)
 
 The ratio of the absorbance at two wavelengths:
+
 ![SharedScreenshot2](https://user-images.githubusercontent.com/55849820/153888551-f003dc04-d504-4ab5-aef4-2bbdff0e7ed8.jpg)
+
+Assuming that the optical path length of the two-wavelength is equal to 'd' can be removed in the ratio. W can rewrite the equation as a function of the ratio to calculate de Oxygen saturation.
+
+![SharedScreenshot3](https://user-images.githubusercontent.com/55849820/153888820-d7bfb31d-2a28-409e-9672-a1ae545dee7d.jpg)
+
+
+
+
+
+
 
