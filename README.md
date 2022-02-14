@@ -26,6 +26,12 @@ The above signal shows a baseline shift and therefore does not represent the tru
 ![peack_4wave](https://user-images.githubusercontent.com/55849820/153887578-18e65ba8-628d-413a-b04c-491397a6e129.png)
 
 
+# Spectral Response
+The data for the extinction coefficient:
+
+![SharedScreenshot4](https://user-images.githubusercontent.com/55849820/153889671-dc760b93-31d4-43eb-9b13-a7e908b5dd9f.jpg)
+
+
 # Oxigen Saturation
 If we use we use only functional Hemoglobin and two wavelengths as in the case of the pulse oximeter, then the absorption will be:
 
