@@ -16,3 +16,11 @@ The above signal shows a baseline shift and therefore does not represent the tru
 
 
 ![PPG_variation_5Wave_60s_BaselineShift](https://user-images.githubusercontent.com/55849820/153887180-dc3f80ce-7a47-478d-a050-8245901ed80f.png)
+
+![Detrended_625_test](https://user-images.githubusercontent.com/55849820/153887477-7a4b3469-ec63-447f-b27d-d2561da8cbf8.png)
+
+
+# Thresholding to Find Peaks of Interest
+
+
+![peack_4wave](https://user-images.githubusercontent.com/55849820/153887578-18e65ba8-628d-413a-b04c-491397a6e129.png)
