@@ -7,4 +7,5 @@ For women: 12.0 to 15.5 grams per deciliter
 
 Beer Lambert Law
 
-$I=I_{0}e^{-\epsilon(\lambda)cd}$
+<img src="https://render.githubusercontent.com/render/math?math=I=I_{0}e^{-\epsilon(\lambda)cd">
+
