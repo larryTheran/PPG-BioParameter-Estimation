@@ -25,6 +25,14 @@ The above signal shows a baseline shift and therefore does not represent the tru
 
 ![peack_4wave](https://user-images.githubusercontent.com/55849820/153887578-18e65ba8-628d-413a-b04c-491397a6e129.png)
 
+# Beer Lambert Law
+
+![albert](https://user-images.githubusercontent.com/55849820/153924239-cc3224d2-1d67-49a8-942d-6bba5a92325b.jpg)
+
+The absorption Coefficient of this process is a measure of the rate of decrease in the intensity of the light as it passes through a given substance:
+
+![lambert2](https://user-images.githubusercontent.com/55849820/153924424-76dafe02-86c7-4027-b317-c95e342940f3.jpg)
+
 
 # Spectral Response
 The data for the extinction coefficient:
