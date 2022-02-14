@@ -31,7 +31,7 @@ The data for the extinction coefficient:
 
 ![SharedScreenshot4](https://user-images.githubusercontent.com/55849820/153889671-dc760b93-31d4-43eb-9b13-a7e908b5dd9f.jpg)
 
-# Ratio of the molar extinction coefficients og Hb HbO2
+# Ratio of the molar extinction coefficients for Hb and HbO2
 
 
 ![SharedScreenshot5](https://user-images.githubusercontent.com/55849820/153916144-8c45f658-ba2a-4e3f-90b3-aecdd07db6ce.jpg)
