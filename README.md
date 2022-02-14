@@ -54,6 +54,10 @@ Assuming that the optical path length of the two-wavelength is equal to 'd' can 
 In the case of the hemoglobin concentration prediction, in the last section, we got that the absorption for a different substance was given by: 
 
 
+![Spectra4Hemo](https://user-images.githubusercontent.com/55849820/153916583-8e7c4e93-96ed-4ca9-a2cc-a58e7e4972a8.jpg)
+
+
+
 
 
 
